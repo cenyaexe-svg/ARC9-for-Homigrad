@@ -6,9 +6,10 @@ This addon adds **ARC9 Base support** for **Homigrad by JonnyBro**.
 - Homigrad by JonnyBro
 - ARC9 Base
 
-### GitHub:
+### Links:
 - **Homigrad (JonnyBro):** [https://github.com/JonnyBro/homigrad]
 - **ARC9 Base:** [https://github.com/necoarctic/ARC-9]
+- **ARC9 for Homigrad** [https://steamcommunity.com/sharedfiles/filedetails/?id=3818459033]
 
 ### Important Information:
 ⚠️ **This is the first version of the addon.**
