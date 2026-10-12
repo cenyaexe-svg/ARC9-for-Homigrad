@@ -1,0 +1,6 @@
+{
+	"title": "Homigrad x ARC9 Support",
+	"type": "tool",
+	"tags": ["fun", "realism"],
+	"ignore": ["*.psd", "*.vcproj", "*.svn*"]
+}
